@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://E:/IDEA/JAVA LIBERARY/httpcomponents-client-4.5.6/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/IDEA/JAVA LIBERARY/httpcomponents-client-4.5.6/lib" recursive="false" />
+  </library>
+</component>

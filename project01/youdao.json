@@ -1,0 +1,46 @@
+{
+  "tSpeakUrl": "http://openapi.youdao.com/ttsapi?q=%E4%B8%8D%E6%98%AF&langType=zh-CHS&sign=D4449710ADE53CF263DA34DA03DD754E&salt=1542811930060&voice=4&format=mp3&appKey=23acdf67351440c5",
+  "web": [
+    {
+      "value": [
+        "粘贴",
+        "分析器",
+        "粒子加速器",
+        "水刀切割"
+      ],
+      "key": "Paser"
+    },
+    {
+      "value": [
+        "博斯帕斯"
+      ],
+      "key": "Persipas Paser"
+    }
+  ],
+  "query": "paser",
+  "translation": [
+    "不是"
+  ],
+  "errorCode": "0",
+  "dict": {
+    "url": "yddict://m.youdao.com/dict?le=eng&q=paser"
+  },
+  "webdict": {
+    "url": "http://m.youdao.com/dict?le=eng&q=paser"
+  },
+  "basic": {
+    "exam_type": null,
+    "us-phonetic": null,
+    "phonetic": null,
+    "uk-phonetic": null,
+    "wfs": null,
+    "uk-speech": "http://openapi.youdao.com/ttsapi?q=paser&langType=en&sign=85EB82162532A9CE39E37AEF9D61F66C&salt=1542811930060&voice=5&format=mp3&appKey=23acdf67351440c5",
+    "explains": [
+      "对氨水杨酸颗粒剂（抗结核药）",
+      "n. (Paser)人名；(塞)帕塞尔"
+    ],
+    "us-speech": "http://openapi.youdao.com/ttsapi?q=paser&langType=en&sign=85EB82162532A9CE39E37AEF9D61F66C&salt=1542811930060&voice=6&format=mp3&appKey=23acdf67351440c5"
+  },
+  "l": "EN2zh-CHS",
+  "speakUrl": "http://openapi.youdao.com/ttsapi?q=paser&langType=en&sign=85EB82162532A9CE39E37AEF9D61F66C&salt=1542811930060&voice=4&format=mp3&appKey=23acdf67351440c5"
+}
